@@ -1,5 +1,9 @@
-Olá, eu sou o Lucas!
--> Estou em aprendizagem no curso Full Stack Java no Instituto PROA.
+Olá, eu sou o Lucas! 
+Bem vindo(a) ao meu GitHub!
+
+🎓 - Estou em aprendizagem no curso Full Stack Java no Instituto PROA.
+📘 - Estudando atualmente MySQL e Java.
+
 
 ##
 
