@@ -3,7 +3,7 @@
 
 
 #### 🎓 - Estou em aprendizagem no curso Full Stack Java no Instituto PROA. <br>
-#### 📘 - Estudando atualmente MySQL e Java.
+#### 📘 - Estudando atualmente Python.
 
 ##
 
