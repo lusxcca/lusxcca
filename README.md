@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Lucas!
 
-Tenho 21 anos e estou no quarto semestre da faculdade de Análise e Desenvolvimento de Sistemas, 
+Tenho 21 anos e estou finalizando o último semestre da faculdade de Análise e Desenvolvimento de Sistemas, 
 sempre tiver um amor gigantesco pelo desenvolvimento, hoje tenho olhos para a área de dados que foi 
 onde eu me encontrei recentemente e comecei a me apronfundar, fiz toda a quesão de ficar parte da construção e manipulação de dados 
 dos projetos acadêmicos e isso acabou me deixando apegado a essa parte do desenvovimento e decidi estudar mais sobre ela
